@@ -1,0 +1,26 @@
+import LoginForm from "../component/LoginForm";
+import LoginHead from "../component/LoginHead";
+import styled from "styled-components";
+
+const LoginLayout = styled.main`
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 48rem;
+  align-content: center;
+  justify-content: center;
+  gap: 3.2rem;
+  background-color: #ffebb3;
+`;
+
+function Login() {
+  return (
+    <>
+      <LoginLayout>
+        <LoginHead />
+        <LoginForm />
+      </LoginLayout>
+    </>
+  );
+}
+
+export default Login;
