@@ -4,20 +4,20 @@ Built using technologies:node.js,express.js,mongoDB mongoose,React.js
 
 <!-- ahead of main parts -->
 
+Backend framework
+
 - `Backend` - Node.js, Express.js & MongoDB database
 - cd backend-`npm start`
+  Frondend framework
 - `Frontend` - React.js, & css,styled Component
 - cd frondend-`npm run dev`
 
-test:`login`
+<!-- environment-->
 
-- email:`test@123.com`
-- password:`test1234`
+Environment variables
 
-<!-- project directory & live preview link -->
+- PORT=3000
+- DATABASE=mongodb://localhost:27017/todos
 
-### 🖱️Browse App & API Routes Live URL
-
-|  #  | Projects                                                                                                 | Live Preview                                       |
-| :-: | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| 01  | [Todo App](https://github.com/SamiurRahmanMukul/Complete-MERN-TODO-Application/tree/master/todo-fronted) | [Click Here ↗](https://mukul-todo-app.netlify.app) |
+- JWT_SECRET=supper-powerfull-secret-ultrastrong
+- JWT_EXPIRES_IN=90d
