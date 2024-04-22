@@ -1,5 +1,10 @@
 # Todos Application
 
+## Preview
+
+<img src="image/Screenshot 2024-04-22 164636.png" />
+<img src="image/Screenshot 2024-04-22 164822.png" />
+
 Built using technologies:node.js,express.js,mongoDB mongoose,React.js
 
 <!-- ahead of main parts -->
