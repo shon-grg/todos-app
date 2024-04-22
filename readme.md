@@ -9,6 +9,11 @@ Built using technologies:node.js,express.js,mongoDB mongoose,React.js
 - `Frontend` - React.js, & css,styled Component
 - cd frondend-`npm run dev`
 
+test:`login`
+
+- email:`test@123.com`
+- password:`test1234`
+
 <!-- project directory & live preview link -->
 
 ### 🖱️Browse App & API Routes Live URL
