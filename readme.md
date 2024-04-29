@@ -32,12 +32,12 @@ Go to `backend` and `frontend` directory and start the server
 
 ```
 cd backend
-npm run dev
+npm start
 ```
 
 ```
 cd frontend
-npm start
+npm run dev
 ```
 
 # API Routes
