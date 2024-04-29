@@ -32,7 +32,7 @@ Go to `backend` and `frontend` directory and start the server
 
 ```
 cd backend
-nodemon server
+npm run dev
 ```
 
 ```
