@@ -1,6 +1,6 @@
 # React + Vite
 
-# <Project title>
+# <Project Todo>
 
 Summary: <No. of completed todos> / <No. of total todos> completed
 
