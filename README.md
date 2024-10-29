@@ -1,8 +1,8 @@
-# React + Vite
+# React + Vite + Node + Mongodb
 
-# <Project Todo>
+# Todo List
 
-Summary: <No. of completed todos> / <No. of total todos> completed
+Summary: <3. of completed todos> / <4. of total todos> completed
 
 ## Pending Todos
 
@@ -25,13 +25,10 @@ Summary: <No. of completed todos> / <No. of total todos> completed
 
 # Frondend
 
-- cd frondend
-- npm run dev
+- ## cd frondend
+- ## npm run dev
 
 # Backend
 
-- cd backend
-- npm start
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ## cd backend
+- ## npm start
