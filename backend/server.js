@@ -4,7 +4,7 @@ dotenv.config({ path: './config.env' });
 const app = require('./app');
 
 // PORT
-const port = process.env.PORT || 300;
+const port = process.env.PORT || 3000;
 // const port = 3000;
 
 // Database connection
@@ -16,6 +16,7 @@ mongoose
     family: 4,
   })
   .then(() => console.log('DB connection successful '));
+
 app.listen(port, () => {
   console.log(`App running on ${port}...`);
 });
