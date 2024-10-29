@@ -19,6 +19,10 @@ Summary: <No. of completed todos> / <No. of total todos> completed
 
 # Screen Shot
 
+![Login](./image/Screenshot%202024-04-22%20164636.png)
+
+![Home](./image/Screenshot%202024-04-22%20164822.png)
+
 # Frondend
 
 - cd frondend
