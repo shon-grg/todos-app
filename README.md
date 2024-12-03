@@ -35,4 +35,4 @@ Summary: <3. of completed todos> / <4. of total todos> completed
 
 # Deployment
 
-## [https://todos-app-lac.vercel.app/login](https://todos-2te8d7a7t-shon-grgs-projects.vercel.app/login)
+https://todos-2te8d7a7t-shon-grgs-projects.vercel.app/login
